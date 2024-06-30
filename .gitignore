@@ -1,0 +1,65 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Composer dependency directory
+/vendor/
+
+# Composer generated files
+composer.lock
+
+# Node modules
+/node_modules/
+
+# Log files
+.log
+
+# Temporary files
+tmp/
+temp/
+.swp
+
+# Cache directories
+cache/
+.cache
+
+# Environment variables file
+.env
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
+/testdox.html
+/testdox.xml
+
+# Coverage reports
+coverage/
+
+# IDE specific files
+.vscode/
+.idea/
+.code-workspace
+
+# Built application
+/build/
+/dist/
+
+/public/js/*.js
+/public/css/*.css
+
+# Local settings
+/local_settings.php
+
+# Hooks
+/hooks/
+
+# Temporary files created by editors
+~
+
+# Other files
+.env.*
+.local.php
+.local.yml
+
+# Custom directories and files for this project
+/tests/
