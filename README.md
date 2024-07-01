@@ -36,10 +36,10 @@ Mmebership integration
 - Boaba Daniella
 
 # License
-
+[GPL-3.0](LICENSE)
 
 # Contributing
-See the [CONTRIBUTING]() guidelines for how to contribute to this project.
+See the [CONTRIBUTING](CONTRIBUTING.md) guidelines for how to contribute to this project.
 
 # Code of Conduct 
-This project adheres to the Code of Conduct outlined in the [CODE_OF_CONDUCT.md]() file.
+This project adheres to the Code of Conduct outlined in the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file.
